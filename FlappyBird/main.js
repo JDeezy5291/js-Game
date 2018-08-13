@@ -19,6 +19,7 @@ window.onload = function(){
 
 	// draw images
 	var gap = 85;
+	var constant = pipeNorth.height + gap;
 	var bX = 10;
 	var bY = 150;
 	var gravity = 1.5;
